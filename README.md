@@ -1,0 +1,1 @@
+This is a game that was a project for a college course to help children have a fun way to learn. It was mostly finsished only struggle not implemneted was making the player lose health when getting a question wrong. It was a level of addition where a player had to answer questions to break the rock and continue playing.
